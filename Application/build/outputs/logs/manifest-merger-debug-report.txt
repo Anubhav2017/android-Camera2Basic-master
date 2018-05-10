@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\ce0944285261013a6abe77fb047b606c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\92973eb82db3c9fb0a6b304d3a8ae928\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\6f790736ab718d2415df7016bfe9b3f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\485411919dd3a3b0441ba0c8a0437596\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\4fda992cd2cdcb96dc1e4c16334d8f8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\53340a6f1e83645aef97ec10f7d1bafb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\ebf2d09358d0d88672bbfb984be15e85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3e940f9287d6128033752d61cd7c7576\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f6512c18d35c8c5db33efb2d50695e35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8fb914599d115183a7ad81374fd085e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\febc5f7ab3ab2a125d2899a619eddd64\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\2a96fe62d9a5d637eb9002bcc114e8ce\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:26:5-39:19
+	android:label
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.MainActivity
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:31:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:38:9-51
+	android:name
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:38:19-49
+uses-sdk
+INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\ce0944285261013a6abe77fb047b606c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\ce0944285261013a6abe77fb047b606c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\92973eb82db3c9fb0a6b304d3a8ae928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\92973eb82db3c9fb0a6b304d3a8ae928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\6f790736ab718d2415df7016bfe9b3f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\6f790736ab718d2415df7016bfe9b3f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\485411919dd3a3b0441ba0c8a0437596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\485411919dd3a3b0441ba0c8a0437596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\4fda992cd2cdcb96dc1e4c16334d8f8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\4fda992cd2cdcb96dc1e4c16334d8f8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\53340a6f1e83645aef97ec10f7d1bafb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\53340a6f1e83645aef97ec10f7d1bafb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\ebf2d09358d0d88672bbfb984be15e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\ebf2d09358d0d88672bbfb984be15e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3e940f9287d6128033752d61cd7c7576\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3e940f9287d6128033752d61cd7c7576\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f6512c18d35c8c5db33efb2d50695e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f6512c18d35c8c5db33efb2d50695e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8fb914599d115183a7ad81374fd085e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8fb914599d115183a7ad81374fd085e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\febc5f7ab3ab2a125d2899a619eddd64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\febc5f7ab3ab2a125d2899a619eddd64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\2a96fe62d9a5d637eb9002bcc114e8ce\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Anubhav\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\2a96fe62d9a5d637eb9002bcc114e8ce\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anubhav\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
